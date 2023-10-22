@@ -1,0 +1,56 @@
+body{
+    background-color:aqua;
+}
+div{
+    background-color: yellow;
+    margin-bottom: 30px;
+   
+}
+#user{
+    border: 5px solid grey;
+    background-color: chartreuse;
+    height: 150px;
+    width:15%;
+  
+    display: inline-block;
+    position: relative;
+}
+img{
+    height:100px;
+    width:100%;
+}
+
+#menu{
+   
+    height:150px;
+    width: 75%;
+    display: inline-block;
+    position:absolute;
+    left: 20%;
+
+}
+h1{
+    font-size: 3rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color: black;
+}
+
+h2{
+    font-size: 1.5rem;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    color: cornflowerblue;
+}
+
+button{
+    background-color: fuchsia;
+}
+
+.item{
+    display: inline-block;
+    width: 10%;
+    height:40px;
+    float: right;
+
+}
